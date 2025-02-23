@@ -16,7 +16,7 @@ This project aims to scrape, process, analyze, and visualize cricket match data 
 
 **Fan Engagement:** Interactive dashboards for exploring match data.
 
-## pproach
+## Approach
 
 ### 1. Data Scraping Using Selenium
 
